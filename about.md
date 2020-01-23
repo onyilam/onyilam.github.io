@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a research scientist at FiscalNote. I conduct research to extract insights from legislative and regulatory data. My preferred language is Python, R, Spark, in that order.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I graduated with a PhD in Economics from University of California, San Diego in 2017. My dissertation examines the effect of political salience on advertisers' decisions in ad allocation across different media outlets. I was also a Data Science for Social Good fellow in Chicago in 2016, where I worked with some really awesome people to use machine learning to better allocate resouce to reduce junville delinquency in Milwaukee. After graduation, I worked as a computational social scientist at the Pew Research Center, where I experimented with various machine learning and deep learning techniques to write about gender representation in [news](https://www.journalism.org/2019/05/23/men-appear-twice-as-often-as-women-in-news-photos-on-facebook/), [online searches](https://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/), [political polarization](https://www.pewresearch.org/fact-tank/2018/02/01/theres-a-large-gender-gap-in-congressional-facebook-posts-about-sexual-misconduct/), [Americans' interest in guns](https://www.pewresearch.org/fact-tank/2018/03/16/what-google-searches-can-tell-us-about-americans-interest-in-guns/), among other work. I also contributed to various technical tutorial on [medium](https://medium.com/@onyilam). Before graduate school, I was awarded the Japanese government scholarship (MEXT) to study public policy at the University of Tokyo. 
+
+I speak decent Japanese, and I have a penchant for projects at the intersection of technology and social science. 
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[onyilam@gmail.com](mailto:onyilam@gmail.com)
