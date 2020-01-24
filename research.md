@@ -15,14 +15,14 @@ permalink: /research/
 
 "Advertisers Capture - Advertisers Capture: Evidence from Hong Kong"
 
-[Code](https://github.com/onyilam/newspaper)[pdf](https://onyilam.github.io/newspaper.pdf)
+[Code](https://github.com/onyilam/newspaper) [pdf](https://onyilam.github.io/newspaper.pdf)
 
 "A Computational Analysis of History Textbooks in Mainland China, Hong Kong and Taiwan"
 
-[Code](https://github.com/onyilam/textbooks)[pdf](https://onyilam.github.io/newspaper.pdf)
+[Code](https://github.com/onyilam/textbooks) [pdf](https://onyilam.github.io/newspaper.pdf)
 
 Preventing Interactions with the Juvenile Justice System
-[Code](https://github.com/dssg/milwaukee_public)[pdf](https://onyilam.github.io/juveniler.pdf)
+[Code](https://github.com/dssg/milwaukee_public) [pdf](https://onyilam.github.io/juveniler.pdf)
 
 
 ### Public Facing
