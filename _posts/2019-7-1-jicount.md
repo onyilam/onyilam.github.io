@@ -3,7 +3,7 @@ layout: post
 title: Make peer review great again
 ---
 
-It is often real test of resolve for researchers to go through peer review. The grumpy and aggressive reviewer #2 often has the researchers wonder if their papers will ever find a home. And no matter how successful you are as a researcher, your papers have probably been rejected by academic journals at least once.
+It is a test of resolve for researchers to go through peer review. The grumpy and aggressive reviewer #2 often has the researchers wonder if their papers will ever find a home. And no matter how successful you are as a researcher, your papers have probably been rejected by academic journals at least once.
 
 In the current system, researchers usually can’t see which papers were rejected and why. Furthermore, they can’t even see the reviews for the accepted papers at most journals. The lack of transparency means that we don’t know if potential personal biases can get in the way of what is supposed to be a merit-based process.
 
