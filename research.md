@@ -15,11 +15,11 @@ permalink: /research/
 
 "Advertisers Capture - Advertisers Capture: Evidence from Hong Kong"
 
-[code](https://github.com/onyilam/newspaper) [pdf](https://onyilam.github.io/newspaper.pdf)
+[code](https://github.com/onyilam/newspaper) [pdf](https://onyilam.github.io/newspapers_latest.pdf)
 
 "A Computational Analysis of History Textbooks in Mainland China, Hong Kong and Taiwan" (with Eddie Li)
 
-[code](https://github.com/onyilam/textbooks) [pdf](https://onyilam.github.io/newspaper.pdf)
+[code](https://github.com/onyilam/textbooks) [pdf](https://onyilam.github.io/textbook_latest.pdf)
 
 "Preventing Interactions with the Juvenile Justice System" (with Reza Borhani, Yaeli Cohen, Hareen Naveed, Kevin Wilson, Chad Kenney, Rayid Ghani)
 
