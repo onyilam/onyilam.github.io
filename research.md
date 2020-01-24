@@ -8,9 +8,9 @@ permalink: /research/
 
 ### Academic Work
 
-"Political Shifts and Public Responses to Agency Action" (with Michael Livermore, Vlad Eidelman) 
+"Political Shifts and Public Responses to Agency Action" (with Michael Livermore and Vlad Eidelman) 
 
-"Stance Detection for Regulatory Comments using a Deep Learning Approach" (with Anastassia Kornilova, Brian Grom)
+"Stance Detection for Regulatory Comments using a Deep Learning Approach" (with Anastassia Kornilova and Brian Grom)
 
 
 "Advertisers Capture - Advertisers Capture: Evidence from Hong Kong"
@@ -19,9 +19,9 @@ permalink: /research/
 
 "A Computational Analysis of History Textbooks in Mainland China, Hong Kong and Taiwan" (with Eddie Li)
 
-[code](https://github.com/onyilam/textbooks) [pdf](https://onyilam.github.io/textbook_latest.pdf)
+[code](https://github.com/onyilam/textbooks) [pdf](https://onyilam.github.io/textbooks_latest.pdf)
 
-"Preventing Interactions with the Juvenile Justice System" (with Reza Borhani, Yaeli Cohen, Hareen Naveed, Kevin Wilson, Chad Kenney, Rayid Ghani)
+"Preventing Interactions with the Juvenile Justice System" (with Reza Borhani, Yaeli Cohen, Hareen Naveed, Kevin Wilson, Chad Kenney and Rayid Ghani)
 
 [code](https://github.com/dssg/milwaukee_public) [pdf](https://onyilam.github.io/juvenile.pdf)
 
