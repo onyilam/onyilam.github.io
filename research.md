@@ -25,6 +25,10 @@ permalink: /research/
 
 [code](https://github.com/dssg/milwaukee_public) [pdf](https://onyilam.github.io/juvenile.pdf)
 
+"Assessing Demographic Shock to Economic Recovery: Evidence from Tohoku in Japan" 
+
+[pdf](https://onyilam.github.io/tohoku.pdf)
+
 
 ### Public Facing
 
