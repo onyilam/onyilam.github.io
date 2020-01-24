@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Research
 permalink: /research/
 ---
 
@@ -31,17 +31,17 @@ permalink: /research/
 "Men Appear Twice as Often as Women in News Photos on Facebook"(with Stefan Wojcik, Brian Broderick and Adam Hughes) 
 [Link](https://www.journalism.org/2019/05/23/men-appear-twice-as-often-as-women-in-news-photos-on-facebook/)
 
-Covered by: Adweek, Forbes, PCMag, Nieman Lab, Multichannel News, Washington Post, The Lily
+*Covered by: Adweek, Forbes, PCMag, Nieman Lab, Multichannel News, Washington Post, The Lily
         
 "Gender and Jobs in Online Image Search"(with Stefan Wojcik, Brian Broderick and Adam Hughes)
 [Link](https://www.pewsocialtrends.org/2018/12/17/gender-and-jobs-in-online-image-searches/)
 
-Covered by: CNN, The Washington Post, Mercury News, USA Today, Mother Jones, Mercury News, East Bay Times, The Lily, MarketWatch
+*Covered by: CNN, The Washington Post, Mercury News, USA Today, Mother Jones, Mercury News, East Bay Times, The Lily, MarketWatch
 			    
 "How far Americans live from the closest hospital differs by community type" (with Brian Broderick and Skye Toor)
 [Link](https://www.pewresearch.org/fact-tank/2018/12/12/how-far-americans-live-from-the-closest-hospital-differs-by-community-type/)
 
-Covered by: CityLab, American Organization for Nursing Leadership, Mississippi Health Advocacy Program
+*Covered by: CityLab, American Organization for Nursing Leadership, Mississippi Health Advocacy Program
 			
 "What Google searches can tell us about Americans’ interest in guns"
 [Link](https://www.pewresearch.org/fact-tank/2018/03/16/what-google-searches-can-tell-us-about-americans-interest-in-guns/)
@@ -58,5 +58,5 @@ Covered by: CityLab, American Organization for Nursing Leadership, Mississippi H
 "Highly ideological members of Congress have more Facebook followers than moderates do" (with Adam Hughes) 
 [Link](https://www.pewresearch.org/fact-tank/2017/08/21/highly-ideological-members-of-congress-have-more-facebook-followers-than-moderates-do/)
 
-Covered by: R-Blogger
+*Covered by: R-Blogger
 
