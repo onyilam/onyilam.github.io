@@ -17,13 +17,13 @@ permalink: /research/
 
 [code](https://github.com/onyilam/newspaper) [pdf](https://onyilam.github.io/newspaper.pdf)
 
-"A Computational Analysis of History Textbooks in Mainland China, Hong Kong and Taiwan"
+"A Computational Analysis of History Textbooks in Mainland China, Hong Kong and Taiwan" (with Eddie Li)
 
 [code](https://github.com/onyilam/textbooks) [pdf](https://onyilam.github.io/newspaper.pdf)
 
-"Preventing Interactions with the Juvenile Justice System"
+"Preventing Interactions with the Juvenile Justice System" (with Reza Borhani, Yaeli Cohen, Hareen Naveed, Kevin Wilson, Chad Kenney, Rayid Ghani)
 
-[code](https://github.com/dssg/milwaukee_public) [pdf](https://onyilam.github.io/juveniler.pdf)
+[code](https://github.com/dssg/milwaukee_public) [pdf](https://onyilam.github.io/juvenile.pdf)
 
 
 ### Public Facing
