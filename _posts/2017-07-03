@@ -1,0 +1,10 @@
+---
+layout: post
+title: Does fox news feature individauls wearing uniform more?
+---
+
+The motivation of this side project comes from wanting to understand whether certain media outlets are more likely to post pictures of individuals in uniform to emphasize on a narrative that resonates or sympathizes with the authority.
+
+This is the first neural network I trained the model using 2048 images of individuals in uniform, and 1840 of random images. The model achieves 88% accuracy, which isn't all that great but has given me a first taste of image classification. 
+
+To learn more: <a href= "https://github.com/onyilam/uniformornot" class="button">Learn more</a> 
