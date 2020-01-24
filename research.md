@@ -62,5 +62,5 @@ permalink: /research/
 "Highly ideological members of Congress have more Facebook followers than moderates do" (with Adam Hughes) 
 [Link](https://www.pewresearch.org/fact-tank/2017/08/21/highly-ideological-members-of-congress-have-more-facebook-followers-than-moderates-do/)
 
-*Covered by: R-Blogger*
+*Covered by: Fast Company, Forbes, Salon, R-Blogger*
 
