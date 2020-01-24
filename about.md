@@ -12,7 +12,7 @@ I graduated with a PhD in Economics from University of California, San Diego in 
 
 I speak English, Cantonese and decent Japanese, and I have a penchant for projects at the intersection of technology and social science. 
 
-<li><a href= "https://onyilam.github.io/resume.pdf" class="button">My Resume</a>
+<a href= "https://onyilam.github.io/resume.pdf">My Resume</a>
 
 ### Contact me
 
