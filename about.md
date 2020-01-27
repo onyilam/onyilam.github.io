@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a research scientist at FiscalNote, where I use various NLP/Machine Learning tools generate insights from unstructured legislative and regulatory data. My preferred language is Python, R, and Spark, in that order.
+I am a research scientist at FiscalNote, where I use various NLP/Machine Learning tools generate insights from unstructured legislative and regulatory data. My preferred language is Python.
 
 ### More Information
 
