@@ -16,3 +16,4 @@ The ability for researchers to share their papers’ path to a successful placem
 
 To learn more: <a href= "http://jicount.com" class="button">Jicount</a> 
 Why I built Jicount: <a href= "https://medium.com/@onyilam/why-i-built-jicount-com-an-effort-to-introduce-more-transparency-in-peer-review-f3c4d1269915" class="button">Link</a> 
+Source code: <a href= "https://github.com/onyilam/jikan" class="button">Link</a> 
