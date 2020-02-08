@@ -3,7 +3,7 @@ layout: post
 title: Reimagining Peer Review
 ---
 
-It is a test of resolve for researchers to go through peer review. The grumpy and aggressive reviewer #2 often has the researchers wonder if their papers will ever find a home. And no matter how successful you are as a researcher, your articles have probably been rejected by academic journals at least once.
+It is often a test of resolve for researchers to go through peer review. No matter how successful you are as an academic researcher, your articles have probably been rejected by journals at least once, and you have probably wondered if your papers will ever find a home.
 
 In the current system, researchers usually can’t see which papers were rejected and why. Furthermore, they can’t even see the reviews for the accepted papers in most journals. The lack of transparency means that we don’t know if potential personal biases can get in the way of what is supposed to be a merit-based process.
 
