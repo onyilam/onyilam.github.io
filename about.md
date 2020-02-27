@@ -20,4 +20,4 @@ I am a U.S. citizen and a proud Hong Kong-er.
 
 [onyilam@gmail.com](mailto:onyilam@gmail.com)
 
-![](jarjar.png)
+![jarjar](jarjar.jpg)
