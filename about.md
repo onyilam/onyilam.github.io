@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a research scientist at FiscalNote, where I use various NLP/Data Science/Statistical tools to generate insights from unstructured legislative and regulatory data. 
+I am a data scientist and economist, with a specific focus in NLP and causal inferences. 
 
 ### More Information
 
