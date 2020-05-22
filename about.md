@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a data scientist and economist, with a specific focus in NLP and causal inferences. 
+I am a data scientist and economist, with a specialty in NLP and causal inferences. 
 
 ### More Information
 
