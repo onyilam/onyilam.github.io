@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generalized Additive Model (GAM): A middle ground approach to Linear Regression and Depp Neural Network
+title: Generalized Additive Model - A middle ground approach to Linear Regression and Depp Neural Network
 ---
 
 In many social science and business problems, it is often more important to explain why a phenomenon happens than improving the model’s predictability on the event happening. Having an interpretable model is, therefore, crucial in understanding how different factors interact with the outcome of interest. The model’s interpretability is also important in highly regulated business environments, such as loan approval decisions. Even in situations where prediction accuracy is more important than the “why”, an interpretable model can help debug more complicated models and guide new approaches to feature engineering and data preprocessing.
